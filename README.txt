@@ -1,10 +1,7 @@
 README
 
-v mapi morajo biti tri stvari! : 
+v mapi morajo biti stiri stvari! : 
 - glagoli.html
 - glagoli.js
 - nglag.csv
-
-
-
- Jakob Kreft, 26.5.2018
+- glagoli.csv
